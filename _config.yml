@@ -85,9 +85,12 @@ analytics:
 author:
   name             : "Brenda Gellner"
   avatar           : "bgellner-profile.jpeg"
-  bio              : "Ph.D. Candidate"
+  bio              : |
+    "Ph.D. Candidate
+    Daniel J. Evans School of 
+    Public Policy & Governance"
   location         : "Seattle, WA"
-  employer         : "Daniel J. Evans School of Public Policy & Governance - University of Washington, Seattle"
+  employer         : "University of Washington, Seattle"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=nR8KMLYAAAAJ&hl=en&oi=ao"
   email            : bgellner@uw.edu
