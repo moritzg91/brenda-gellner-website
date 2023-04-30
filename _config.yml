@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Brenda Gellner"
 title_separator          : "-"
 name                     : &name "Brenda Gellner"
-description              : &description "PhD Candidate at Daniel J. Evans School of Public Policy and Governance - University of Washington, Seattle"
+description              : &description "Ph.D. Candidate at Daniel J. Evans School of Public Policy and Governance - University of Washington, Seattle"
 url                      : https://moritzg91.github.io/brenda-gellner-website # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "moritzg91/brenda-gellner-website"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Brenda Gellner"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate"
   location         : "Seattle, WA"
-  employer         : "University of Washington, Seattle"
+  employer         : "Daniel J. Evans School of Public Policy & Governance - University of Washington, Seattle"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : bgellner@uw.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
