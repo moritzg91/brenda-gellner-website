@@ -4,7 +4,8 @@ collection: teaching
 type: "Graduate Course"
 permalink: /teaching/pubpol-516
 venue: "Daniel J. Evans School of Public Policy & Governance - University of Washington, Seattle"
-date: 2021, 2020, 2019
+date: 2021-01-01
+other_years: 2020, 2019
 location: "Seattle, WA"
 was_ta: true
 ---
