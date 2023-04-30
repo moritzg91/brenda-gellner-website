@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Brenda Gellner"
-  avatar           : "profile.png"
+  avatar           : "bgellner-profile.jpeg"
   bio              : "Ph.D. Candidate"
   location         : "Seattle, WA"
   employer         : "Daniel J. Evans School of Public Policy & Governance - University of Washington, Seattle"
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=nR8KMLYAAAAJ&hl=en&oi=ao"
   email            : bgellner@uw.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
