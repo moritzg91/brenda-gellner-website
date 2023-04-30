@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Publications In Progress
+
+{% for post in site.publications_inprogress reversed %}
+  {% include archive-single.html %}
+{% endfor %}
