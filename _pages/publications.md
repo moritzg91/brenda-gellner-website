@@ -20,7 +20,7 @@ author_profile: true
 ## Publications In Progress
 
 {% for post in site.publications reversed %}
-  {% if post.inprogress == false %}
+  {% if post.inprogress == true %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
