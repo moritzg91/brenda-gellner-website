@@ -1,11 +1,11 @@
 ---
-title: "Economics for Policy Analysis and Management I (PUBPOL 516)"
+title: "Quantitative Analysis II (PUBPOL 528)"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/pubpol-516
+permalink: /teaching/pubpol-528
 venue: "Daniel J. Evans School of Public Policy & Governance - University of Washington, Seattle"
-date: 2021-01-01
-other_dates: 2020, 2019
+date: 2022-01-01
+other_dates: "2021"
 location: "Seattle, WA"
 was_ta: true
 ---
